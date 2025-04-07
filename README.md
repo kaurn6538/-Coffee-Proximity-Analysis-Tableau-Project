@@ -41,7 +41,7 @@ Color scale:
 
 🟧 Orange: Store is too far from any other branch (> 0.5 miles)
 
-🧭 Interactive filters to view details per store.
+🧭 Interactive Tooltip to view details per store.
 
 🛠️ Tools & Techniques
 *    Tableau (Mapping, Distance Calculations, Custom Shapes)
