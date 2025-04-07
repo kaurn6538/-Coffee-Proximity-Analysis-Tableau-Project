@@ -50,9 +50,9 @@ Color scale:
 
 Custom Assets:
 
-*     Client's logo integrated into the dashboard
+*    Client's logo integrated into the dashboard
 
-*     Coffee cup shapes added to Tableau’s Shapes folder and selected via dropdown in Shape Marks card
+*    Coffee cup shapes added to Tableau’s Shapes folder and selected via dropdown in Shape Marks card
 
 📸 Final Dashboard Preview
 
