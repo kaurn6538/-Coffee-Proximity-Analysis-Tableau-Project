@@ -55,6 +55,7 @@ Custom Assets:
 *    Coffee cup shapes added to Tableau’s Shapes folder and selected via dropdown in Shape Marks card
 
 📸 Final Dashboard Preview
+![Coffee Proximity](https://github.com/user-attachments/assets/4173ba4a-9d55-44da-aa76-5a13c9885ee1)
 
 🚀 How to Use
 
