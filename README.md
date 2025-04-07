@@ -57,9 +57,10 @@ Custom Assets:
 📸 Final Dashboard Preview
 
 🚀 How to Use
+
 Clone the repository or open the Tableau file.
 
 Ensure the custom coffee cup shape is added to your Tableau My Tableau Repository > Shapes folder.
 
-Open the dashboard and interact with filters and maps to explore store proximity insights.
+Open the dashboard and interact to explore store proximity insights.
 
