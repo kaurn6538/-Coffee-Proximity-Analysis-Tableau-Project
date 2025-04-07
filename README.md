@@ -10,21 +10,21 @@ To support this vision, this project analyzes the current distribution of Megabu
 📊 Project Goals
 Display all current store locations, including:
 
-Monthly turnover
+*    Monthly turnover
 
-Number of months in operation
+*    Number of months in operation
 
-Calculate distances between each store and identify:
+*    Calculate distances between each store and identify:
 
-Stores that are more than 0.5 miles from the nearest other store
+*    Stores that are more than 0.5 miles from the nearest other store
 
 Visually represent store proximity using:
 
-Custom coffee cup shapes
+*    Custom coffee cup shapes
 
-Color indicators to distinguish distant stores
+*    Color indicators to distinguish distant stores
 
-Dynamic sizing of shapes based on minimum distance
+*    Dynamic sizing of shapes based on minimum distance
 
 📌 Key Features
 🗺️ Custom Map Background: Enhanced readability and focus on NYC geography.
@@ -44,15 +44,15 @@ Color scale:
 🧭 Interactive filters to view details per store.
 
 🛠️ Tools & Techniques
-Tableau (Mapping, Distance Calculations, Custom Shapes)
+*    Tableau (Mapping, Distance Calculations, Custom Shapes)
 
-Spatial Analysis (Using latitude & longitude to calculate inter-store distances)
+*    Spatial Analysis (Using latitude & longitude to calculate inter-store distances)
 
 Custom Assets:
 
-Client's logo integrated into the dashboard
+*     Client's logo integrated into the dashboard
 
-Coffee cup shapes added to Tableau’s Shapes folder and selected via dropdown in Shape Marks card
+*     Coffee cup shapes added to Tableau’s Shapes folder and selected via dropdown in Shape Marks card
 
 📸 Final Dashboard Preview
 
