@@ -16,7 +16,7 @@ Display all current store locations, including:
 
 *    Calculate distances between each store and identify:
 
-*    Stores that are more than 0.5 miles from the nearest other store
+   Stores that are more than 0.5 miles from the nearest other store
 
 Visually represent store proximity using:
 
